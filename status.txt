@@ -1,0 +1,10 @@
+ceasa@LAPTOP-6TD9S2O9 MINGW64 ~/Desktop/3354-git (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+ceasa@LAPTOP-6TD9S2O9 MINGW64 ~/Desktop/3354-git (master)
+$
