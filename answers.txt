@@ -1,0 +1,6 @@
+a) 4
+b) After the commit is started. The purpose is to ensure that certain files that are not tracked by Git remain untracked.
+c) The git log displays commited snapshots while the git status lets you view the staging area of changes that need to be committed.
+d) Unstaged files occur when modify and already existing file. Untracked occurs when you add a new file to the directory.
+e) git checkout is about updating the working tree. git reset is about updating the index.
+f) An error message will appear that says, "Cannot pull because there are uncommited changes. Commit or undo your changes before pulling again."
